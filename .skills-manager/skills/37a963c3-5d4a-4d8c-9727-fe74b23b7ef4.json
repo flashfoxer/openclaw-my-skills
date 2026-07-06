@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "37a963c3-5d4a-4d8c-9727-fe74b23b7ef4",
+  "path": "ljg-card",
+  "path_key": "ljg-card",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "lijigang/ljg-skills/ljg-card",
+    "subpath": "skills\\ljg-card",
+    "branch": null
+  }
+}

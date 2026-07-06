@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1e720e4e-1db8-42b7-aecc-b4d94fe63ab5",
+  "path": "huashu-design",
+  "path_key": "huashu-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/huashu-design/huashu-design",
+    "subpath": null,
+    "branch": null
+  }
+}

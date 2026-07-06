@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4c3ecce1-f975-402d-aed6-5ef180dc26cc",
+  "path": "ljg-skill-map",
+  "path_key": "ljg-skill-map",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "lijigang/ljg-skills/ljg-skill-map",
+    "subpath": "skills\\ljg-skill-map",
+    "branch": null
+  }
+}

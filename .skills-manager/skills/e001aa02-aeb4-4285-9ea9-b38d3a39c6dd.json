@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e001aa02-aeb4-4285-9ea9-b38d3a39c6dd",
+  "path": "ljg-paper",
+  "path_key": "ljg-paper",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "lijigang/ljg-skills/ljg-paper",
+    "subpath": "skills\\ljg-paper",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f6b18a5b-2696-40f6-8a9d-24832d959496",
+  "path": "ljg-book",
+  "path_key": "ljg-book",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "lijigang/ljg-skills/ljg-book",
+    "subpath": "skills\\ljg-book",
+    "branch": null
+  }
+}

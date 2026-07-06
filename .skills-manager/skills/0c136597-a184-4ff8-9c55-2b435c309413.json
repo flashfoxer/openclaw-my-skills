@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0c136597-a184-4ff8-9c55-2b435c309413",
+  "path": "frontend-slides",
+  "path_key": "frontend-slides",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "affaan-m/everything-claude-code/frontend-slides",
+    "subpath": "skills\\frontend-slides",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "75a6d45e-0c6d-450e-a383-a7cdd8470876",
+  "path": "ljg-learn",
+  "path_key": "ljg-learn",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "lijigang/ljg-skills/ljg-learn",
+    "subpath": "skills\\ljg-learn",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a440209e-bb5c-471a-b61c-9992d1b2a12c",
+  "path": "agnes-ai-generation",
+  "path_key": "agnes-ai-generation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "yacey/agnes-ai-generation-skill/agnes-ai-generation",
+    "subpath": null,
+    "branch": null
+  }
+}

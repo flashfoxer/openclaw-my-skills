@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "47e00e27-def6-4f8d-bf8a-523af3c7d158",
+  "path": "gorden-ppt-skill",
+  "path_key": "gorden-ppt-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "gordensun/gordenpptskill/gorden-ppt-skill",
+    "subpath": null,
+    "branch": null
+  }
+}

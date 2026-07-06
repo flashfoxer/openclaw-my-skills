@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "436a1d3e-8746-4f58-bd36-28e78a467df4",
+  "path": "meta-skill-creator",
+  "path_key": "meta-skill-creator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "opensquilla/opensquilla/meta-skill-creator",
+    "subpath": "src\\opensquilla\\skills\\bundled\\meta-skill-creator",
+    "branch": null
+  }
+}

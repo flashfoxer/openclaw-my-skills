@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "56ff258a-3de2-4f90-b667-0af9e9dcb92d",
+  "path": "ljg-read",
+  "path_key": "ljg-read",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "lijigang/ljg-skills/ljg-read",
+    "subpath": "skills\\ljg-read",
+    "branch": null
+  }
+}
