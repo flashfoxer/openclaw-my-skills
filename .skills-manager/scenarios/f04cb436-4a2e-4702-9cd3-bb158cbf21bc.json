@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "scenario_id": "f04cb436-4a2e-4702-9cd3-bb158cbf21bc",
-  "name": "Default",
+  "name": "全部",
   "description": "Default startup scenario",
-  "icon": null,
+  "icon": "home",
   "sort_order": 0
 }
