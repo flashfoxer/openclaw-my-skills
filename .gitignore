@@ -2,8 +2,3 @@
 Thumbs.db
 *.tmp
 .skills-manager.lock
-
-# skills-manager: oversized skills excluded from backup (auto-managed)
-/gorden-ppt-skill/
-/.skills-manager/skills/47e00e27-def6-4f8d-bf8a-523af3c7d158.json
-# skills-manager: end oversized skills
