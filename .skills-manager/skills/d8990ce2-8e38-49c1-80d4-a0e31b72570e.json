@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d8990ce2-8e38-49c1-80d4-a0e31b72570e",
+  "path": "baoyu-markdown-to-html",
+  "path_key": "baoyu-markdown-to-html",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "jimliu/baoyu-skills/baoyu-markdown-to-html",
+    "subpath": "skills\\baoyu-markdown-to-html",
+    "branch": null
+  }
+}

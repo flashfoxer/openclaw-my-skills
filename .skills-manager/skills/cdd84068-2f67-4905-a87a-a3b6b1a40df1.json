@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cdd84068-2f67-4905-a87a-a3b6b1a40df1",
+  "path": "yao-meta-skill",
+  "path_key": "yao-meta-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "yaojingang/yao-meta-skill/yao-meta-skill",
+    "subpath": "reports\\iteration_bundles\\yao-meta-skill",
+    "branch": null
+  }
+}

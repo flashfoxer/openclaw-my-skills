@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3fdd26f1-7934-4e49-8b6a-a0e8523212a4",
+  "path": "ljg-paper-flow",
+  "path_key": "ljg-paper-flow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "lijigang/ljg-skills/ljg-paper-flow",
+    "subpath": "skills\\ljg-paper-flow",
+    "branch": null
+  }
+}

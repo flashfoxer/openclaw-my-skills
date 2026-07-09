@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a596009a-2401-4b4a-bf14-8e32d85f0727",
+  "path": "luban",
+  "path_key": "luban",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "learnprompt/luban-skill/luban",
+    "subpath": "skills\\luban",
+    "branch": null
+  }
+}

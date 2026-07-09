@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0110cbc5-0915-49d9-8aa9-678e54e2a966",
+  "path": "ppt-to-video",
+  "path_key": "ppt-to-video",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

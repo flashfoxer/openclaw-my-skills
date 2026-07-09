@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dc4ef709-3671-435d-8688-94e2f4c1947a",
+  "path": "ljg-present",
+  "path_key": "ljg-present",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "lijigang/ljg-skills/ljg-present",
+    "subpath": "skills\\ljg-present",
+    "branch": null
+  }
+}
